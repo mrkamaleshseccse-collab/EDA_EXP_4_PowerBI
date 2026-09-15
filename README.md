@@ -71,6 +71,9 @@ Create the following measures:
 
 **Output**
 
+<img width="1147" height="652" alt="Screenshot 2026-09-09 090553" src="https://github.com/user-attachments/assets/16d34f7a-2f10-49b3-93aa-8154c86eb4a2" />
+
 
 **Result**
-Thus, the sales data was successfully prepared and analyzed using Power BI. Bivariat
+
+Thus, the sales data was successfully prepared and analyzed using Power BI. 
